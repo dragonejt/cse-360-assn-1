@@ -1,5 +1,6 @@
 /*****
  * Evan Tung
+ * https://github.com/dragonejt/cse-360-assn-1
  ******/
 public class GitDemo {
     
